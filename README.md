@@ -59,7 +59,6 @@
 | **OSINT Industries**                                                   | 10% planes/créditos | Planes y créditos                     | `BLACKFRIDAY`   | 30 nov       |
 | **OSINT Industries**                                                   | 25% formación       | Cursos                                | `OSINTFRIDAY`   | 30 nov       |
 | **[Pulsedive Pro](https://pulsedive.com/about/pro)**                   | 30%                 | 12 meses suscripción                  | `CIRCUITBIRD30` | 30 nov       |
-| **[ZoomEye](https://www.zoomeye.ai/pricing)**                          | Flash sale          | $9 + 1 año gratis (compra 1, lleva 1) | -               | 28-29 nov    |
 | **[Gray Hat Warfare Premium](https://grayhatwarfare.com/packages)**    | -                   | $160 (vs $300)                        | Auto            | -            |
 | **[Gray Hat Warfare Enterprise](https://grayhatwarfare.com/packages)** | -                   | $450 (vs $960)                        | Auto            | -            |
 
