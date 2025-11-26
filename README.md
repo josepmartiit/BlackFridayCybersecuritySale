@@ -1,8 +1,8 @@
 # 🔥 Black Friday Cybersecurity 2025
 
-> **Última actualización**: 22 noviembre 2024  
+> **Última actualización**: 26 noviembre 2024  
 > **Estado**: ✅ Activo | Finaliza: 2 diciembre 2024 (mayoría)  
-> **Fuente**:
+> **Fuente**: no estan todas las que estan pero algunas estan
 
 ---
 
@@ -13,10 +13,6 @@
 - [Herramientas de Seguridad]
 - [VPN y Privacidad]
 - [OSINT & Threat Intelligence]
-- 
-- 
-- 
-- 
 
 ---
 
