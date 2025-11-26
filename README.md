@@ -8,14 +8,15 @@
 
 ## 📚 Índice
 
-- [Formación y Certificaciones](#formación-y-certificaciones)
-- [Laboratorios Prácticos](#laboratorios-prácticos)
-- [Herramientas de Seguridad](#herramientas-de-seguridad)
-- [VPN y Privacidad](#vpn-y-privacidad)
-- [Hardware Hacker](#hardware-hacker)
-- [DFIR y Forense](#dfir-y-forense)
-- [Certificaciones Oficiales](#certificaciones-oficiales)
-- [⚠️ Ciberseguridad en Black Friday](#️-ciberseguridad-en-black-friday)
+- [plataformas y Certificaciones]
+- [Laboratorios Prácticos]
+- [Herramientas de Seguridad]
+- [VPN y Privacidad]
+- [OSINT & Threat Intelligence]
+- 
+- 
+- 
+- 
 
 ---
 
